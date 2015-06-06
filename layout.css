@@ -1,0 +1,23 @@
+body {
+	background: black;
+}
+
+a:link {
+	color:lavender;
+	text-decoration:none;
+}
+
+a:visited {
+	color:lavender;
+	text-decoration:none;
+}
+
+a:active {
+	color:lavender;
+	text-decoration:none;
+}
+
+a:hover {
+	color:lavenderblush;
+	text-decoration:none;
+}
